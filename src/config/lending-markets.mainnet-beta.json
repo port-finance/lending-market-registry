@@ -1,0 +1,17 @@
+[
+  {
+    "lendingMarket": "6T4XxKerq744sSuj3jaoV6QiZ8acirf4TrPwQzHAoSy5",
+    "name": "Port Finance Main Market",
+    "description": "Lending Pool officially supported by Port Finance."
+  },
+  {
+    "lendingMarket": "45NUXfNeHarSegUkWFXsmtuRfNCyyBxBTGW2ockK7ACJ",
+    "name": "Test Pool 1",
+    "description": "Lending Pool officially supported by Port Finance."
+  },
+  {
+    "lendingMarket": "FJ6gEHksjBevzddDr9jZ8gTiwBdEq8zxR13ra4TUx947",
+    "name": "Test Pol 2",
+    "description": "Lending Pool officially supported by Port Finance."
+  }
+]
