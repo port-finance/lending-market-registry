@@ -2,6 +2,7 @@
   {
     "lendingMarket": "6T4XxKerq744sSuj3jaoV6QiZ8acirf4TrPwQzHAoSy5",
     "name": "Port Main Market",
-    "description": "Lending Pool officially supported by Port Finance."
+    "description": "Lending Pool officially supported by Port Finance.",
+    "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PoRTjZMPXb9T7dyU7tpLEZRQj7e6ssfAE62j2oQuc6y/PORT.png"
   }
 ]
