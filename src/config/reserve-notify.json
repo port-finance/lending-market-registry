@@ -1,34 +1,10 @@
 {
   "6T4XxKerq744sSuj3jaoV6QiZ8acirf4TrPwQzHAoSy5": {
-    "DcENuKuYd6BWGhKfGr7eARxodqG12Bz1sN5WA8NwvLRx": [
-      {
-        "icon": "success",
-        "content": "helloworld"
-      },
-      {
-        "icon": "info",
-        "content": "helloworld"
-      },
+    "4HVSvzUfQ3aP5wEDkCQRqgYMhNatenVRKPdbXUv8VvBa": [
       {
         "icon": "warning",
-        "content": "helloworld"
+        "content": "UST is being deprecated."
       },
-      {
-        "icon": "danger",
-        "content": "helloworld"
-      },
-      {
-        "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX/usdh.svg",
-        "content": "this is custom logo"
-      }
     ]
   },
-  "3VGB8mkJ7Po4DMhquiwZ5TY6T8si2oEzkTMLpke4aT3o": {
-    "DPBWrkHmzGSjyNzVHxhPkE5d7uDXVPMXcAKuLdHX9aZa": [
-      {
-        "icon": "success",
-        "content": "helloworld"
-      }
-    ]
-  }
 }
