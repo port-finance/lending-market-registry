@@ -5,6 +5,12 @@
         "icon": "warning",
         "content": "UST is being deprecated."
       }
+    ],
+    "DSST29PMCVkxo8cf5ht9LxrPoMc8jAZt98t6nuJywz8p": [
+      {
+        "icon": "warning",
+        "content": "soBTC is being deprecated."
+      }
     ]
   }
 }
